@@ -1,5 +1,6 @@
 package com.development.smack.Controller
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -17,6 +18,9 @@ class LoginActivity : AppCompatActivity() {
     }
 
     fun loginCreateUserBtnClicked(view:View) {
+
+        val createUserActivity = Intent(this,CreateUserActivity:: class.java)
+        startActivity(createUserActivity)
 
     }
 

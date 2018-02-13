@@ -4,5 +4,13 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="user_name">user name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="tap_generate_user_avatar">Tap generate user avatar</string>
+    <string name="create_background_color">CREATE BACKGROUND COLOR</string>
+    <string name="create_user">CREATE USER</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up_here">SIGN UP HERE</string>
 </resources>
